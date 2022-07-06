@@ -572,14 +572,6 @@ figcaption {
 	margin: 20px 0;
 }
 
-@media(max-width: 927px) {
-	.form_textarea textarea {
-		max-width:350px;
-	}
-	.form input {
-		max-width: 140px;
-	}
-}
 
 .form_lvl_4 {
 	display: flex;
